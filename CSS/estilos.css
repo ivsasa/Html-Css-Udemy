@@ -1,0 +1,18 @@
+a{
+    color: rgb(255, 132, 0);
+    font-size: 20px;
+}
+/* SELECTOR UNIVERSAL */
+
+
+
+/* ID */
+#esid{
+    font-size: 40px;
+}
+
+/* CLASS */
+.libros{
+    font-size: 50px;
+    color: green;
+}
