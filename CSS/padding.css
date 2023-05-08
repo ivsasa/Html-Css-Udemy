@@ -1,0 +1,24 @@
+p{
+    background-color: orange;
+    width: 400px;
+}
+
+.p-p{
+    padding: 20px 30px 40px 50px;
+    /* padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-right: 20px; */
+    
+}
+
+.d{
+    background-color: rgb(51, 234, 51);
+    width: 500px;
+    height: 200px;
+}
+
+.box-p{
+    box-sizing: border-box;
+    padding: 80px;
+}
