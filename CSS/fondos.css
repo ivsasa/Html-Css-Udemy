@@ -1,0 +1,11 @@
+body{
+    /* background-color: aquamarine; */
+    /* background-color: #db98bb; */
+    background-image: url(/IMG/pink-flowers.webp) ;
+    /* background-repeat: no-repeat;
+    background-position:center center; */
+}
+
+.content{
+    background: rgba(255, 255, 255, 0.6);
+}

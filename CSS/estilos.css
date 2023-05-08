@@ -4,7 +4,7 @@ a{
 }
 /* SELECTOR UNIVERSAL */
 
-
+/* *{} */
 
 /* ID */
 #esid{
@@ -15,4 +15,12 @@ a{
 .libros{
     font-size: 50px;
     color: green;
+}
+
+h2{
+    color: brown;
+}
+
+h2.h2distinto{
+    color: black;
 }

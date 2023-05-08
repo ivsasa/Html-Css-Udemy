@@ -1,0 +1,22 @@
+.pixel{
+    background-color: rgb(43, 209, 154);
+    width: 200px;
+    font-size: 20px;
+}
+
+.porcentaje{
+    background-color: pink;
+    width: 50%;
+
+}
+
+p{
+    border-style: solid;
+    border-width:2px 4px 6px 8px ;
+    border-color: rgb(3, 8, 71);
+}
+
+.border{
+    border: 3px solid black;
+
+}
