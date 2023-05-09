@@ -1,0 +1,39 @@
+.principal{
+    width: 800px;
+    height: 800px;
+    background-color: rgb(14, 46, 36);
+    margin:auto;
+}
+
+.est{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    position: static;
+    left: 150px;
+    top: 150px;
+}
+.rel{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(188, 230, 122);
+    position: relative;
+    left: 150px;
+    top: 150px;
+}
+.abs{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(102, 221, 229);
+    position: absolute;
+    left: 150px;
+    top: 150px;
+}
+.fix{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(48, 217, 99);
+    position: fixed;
+    left: 150px;
+    top: 150px;
+}
